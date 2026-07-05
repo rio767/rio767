@@ -222,31 +222,6 @@ Built and deployed a scalable full stack web application, focusing on backend ef
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rio767&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=rio767&theme=tokyonight&hide_border=true&background=0F0524&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rio767&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=C4B5FD" width="50%" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rio767&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
